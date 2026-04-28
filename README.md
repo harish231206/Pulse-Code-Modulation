@@ -181,8 +181,7 @@ plt.show()
 
 <img width="1556" height="663" alt="image" src="https://github.com/user-attachments/assets/0f3c8dee-4620-4985-84ef-1e4c4f9a2eb4" />
 
-# Results
-```
+# Result
 Thus,the python program for the modulation and demodulation of PCM has been executed and verified successfully.
-```
+
 
