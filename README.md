@@ -12,7 +12,6 @@ Internet Connection
 Computer / Laptop
 ```
 ## Theory
-
 Pulse Code Modulation (PCM) is a technique used to convert an analog signal into a digital signal. In PCM, the amplitude of the analog signal is sampled at uniform time intervals, quantized into finite levels, and then encoded into binary form.
 
 PCM is the most common method used in digital telecommunication systems because it provides high noise immunity and better signal quality.
@@ -55,6 +54,7 @@ The binary coded pulses are transmitted through the communication channel.
 
 At the receiver side, the binary data is decoded and filtered to recover the original analog signal.
 # Program
+
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -174,6 +174,7 @@ plt.grid(True)
 
 plt.tight_layout()
 plt.show()
+
 ```
 # Output Waveform
 
